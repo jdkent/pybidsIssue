@@ -1,0 +1,10 @@
+name: pybidsIssue
+channels:
+  - defaults
+dependencies:
+  - python=3.6.8
+  - ipykernel=5.1.0
+  - jupyter=1.0.0
+  - pip:
+    - pybids=0.7.0
+

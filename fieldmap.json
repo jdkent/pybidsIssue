@@ -1,0 +1,19 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750w",
+	"AcquisitionNumber": 1,
+	"InstitutionName": "Iowa_MRRF",
+	"DeviceSerialNumber": "0000000319335MR2",
+	"SoftwareVersions": "25_LX_MR_Software_release:DV25.0_R02_1549.b",
+	"ProcedureStepDescription": "VOSS_PACRAD",
+	"ScanningSequence": "RM",
+	"SequenceVariant": "NONE",
+	"SeriesDescription": "Field_Map",
+	"ProtocolName": "Field_Map",
+	"ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
+	"Units": "Hz",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 60,
+	"EchoTime": 0.004608,
+	"RepetitionTime": 0.372536
+}

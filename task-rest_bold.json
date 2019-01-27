@@ -1,0 +1,8 @@
+{
+	"RepetitionTime": 2.0,
+	"TaskName": "rest",
+	 "FlipAngle": 80,
+    "EchoTime": 0.030000,
+    "EffectiveEchoSpacing": 0.00032,
+    "PhaseEncodingDirection": "j"
+}
